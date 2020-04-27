@@ -1,2 +1,2 @@
 # flutter-tictactoe
-TicTacToe game using fluttr\er
+TicTacToe game using flutter
